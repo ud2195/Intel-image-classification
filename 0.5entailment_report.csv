@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Codable,0.9,0.94,0.92,8155.0
+Non Codable,0.81,0.74,0.77,3117.0
+accuracy,0.88,0.88,0.88,0.8810326472675657
+macro avg,0.86,0.84,0.85,11272.0
+weighted avg,0.88,0.88,0.88,11272.0
